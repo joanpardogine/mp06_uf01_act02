@@ -1,0 +1,18 @@
+.laMevaClasse {
+    padding: 15px;
+    border-radius: 15px;
+  }
+  
+  .laMevaClasse:hover{
+    background-color: lightcyan;
+  }
+
+  .invisible{
+      /* visibility: hidden; */
+      display: none;
+  }
+
+  .visible{
+      /* visibility: visible; */
+    display: block;
+}
